@@ -158,7 +158,7 @@ ________________________________________________________________________________
 
 [![Run on Repl.it](https://repl.it/badge/github/Tkappithannemo/WhatsAsenaPublic)](https://replit.com/@kappithannemo/WhatsAsena-QR)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kappithannemo/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/WhatsAsenaDuplicated)
   
   
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=kappithannemo&repo=WhatsAsenaDuplicated)](https://github.com/kappithannemo/WhatsAsenaDuplicated)
